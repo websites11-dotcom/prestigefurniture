@@ -1,0 +1,6 @@
+{
+  "name": "Prestige Furniture System and Interiors",
+  "description": "Premium custom furniture manufacturing and luxury interior design solutions in Banashankari, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
